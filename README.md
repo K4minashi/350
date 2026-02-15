@@ -1,7 +1,7 @@
 # 350
 
 ## test
-    ```mermaid
+```mermaid
     entityRelationshipDiagram
         User ||--o{ Order : has
         Order {
@@ -13,4 +13,4 @@
             int id
             string name
         }
-    ```
+```
