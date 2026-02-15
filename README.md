@@ -1,6 +1,6 @@
-# 350
+# Основы БД
 
-## test
+## ER диаграмма в гит хабе через mermaid 
 ```mermaid
     erDiagram
         User ||--o{ Order : has
