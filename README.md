@@ -3,7 +3,7 @@
 ## ER диаграмма в гит хабе через mermaid 
 ```mermaid
     erDiagram
-        User ||--o{ Order : has
+        User ||-{ Order : has
         Order {
             int id
             string name
