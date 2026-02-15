@@ -2,7 +2,7 @@
 
 ## test
 ```mermaid
-    entityRelationshipDiagram
+    erDiagram
         User ||--o{ Order : has
         Order {
             int id
